@@ -7,7 +7,7 @@ Joins a list of Ruby hashes to the records of an ActiveRecord relation, as a vir
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'active_record-virtual_joins', github: 'mintyfresh/active_record-virtual_joins'
+gem 'active_record-virtual_joins'
 ```
 
 And then execute:
